@@ -68,15 +68,10 @@ RopeGod 是一个高集成低成本的绳驱五指灵巧手，共有7个自由�
 目前支持的功能有：
 
 1. 7个自由度的位置闭环控制
-
 2. 串口连接 UAB-CAN 控制器
-
 3. 关节角度参数显示
-
 4. 4种基础动作的执行（捏合、球状抓取、侧捏夹取、柱状握持）
-
 5. 设置灵巧手和传感器的 CANID
-
 6. 12路压力传感器的图表显示
 
 上位机源代码请见 `./3.Software`，预编译版本在 release 中发布（目前只有 Windows 下的预编译版本）
@@ -108,6 +103,13 @@ mrh5 mr1(w, 32, 33);
 
 使用连续体灵巧手完成薯片、鸡蛋等物体的抓取：链接3
 
+## 衍生项目
+
+- 连续体灵巧手
+- 变胞灵巧手
+
+![](./4.Docs/Image/3hand.png)
+
 ## 许可证
 
 Choloepus采用AGPL-3.0许可证进行发布。请参考[LICENSE](https://github.com/CassiusXiang/Choloepus/blob/main/LICENSE)获取更多信息。
@@ -115,3 +117,4 @@ Choloepus采用AGPL-3.0许可证进行发布。请参考[LICENSE](https://github
 ## 联系方式
 
 我的邮箱: changxiangchina@outlook.com
+
