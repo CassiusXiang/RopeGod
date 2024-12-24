@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.ino": "arduino-output",
+        "usart.h": "c",
+        "gpio.h": "c",
+        "main.h": "c",
+        "user_flash_64kb.h": "c"
+    }
+}

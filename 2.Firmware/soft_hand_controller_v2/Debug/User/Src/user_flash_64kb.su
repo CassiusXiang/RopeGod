@@ -1,0 +1,5 @@
+../User/Src/user_flash_64kb.c:13:6:Flash_ErasePage64	32	static
+../User/Src/user_flash_64kb.c:42:6:Flash_WriteDataToPage64	32	static
+../User/Src/user_flash_64kb.c:67:10:Flash_ReadDataFromPage64	24	static
+../User/Src/user_flash_64kb.c:77:6:Flash_WriteFilterDataToPage64	16	static
+../User/Src/user_flash_64kb.c:85:10:Flash_ReadFilterDataToPage64	8	static
